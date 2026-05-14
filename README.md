@@ -1,5 +1,5 @@
 # Projects
-#  E-Commerce Product Page
+#  Web E-Commerce Product Page
 
 A responsive front-end product page built from scratch using HTML, CSS, and JavaScript — no frameworks or libraries.
 
